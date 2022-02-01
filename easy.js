@@ -9,15 +9,16 @@
 // Input: [1.5, 3, 2.5, 1]  Output: 2
 
 //make a array
-//loop to add all the 
+//loop to add all the values 
+// set it equal to a variable  like sum
+// sum / arr.length 
+
 
 let arr = [1 , 4 , 7];
 
 
 function average(){
     for(let i = 0; i < arr.length; i++){
-        var sum = lodash.sum(arr);
-
         
     }
 
